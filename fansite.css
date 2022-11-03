@@ -193,6 +193,12 @@ h1{
         justify-content: center;
         text-decoration: gold underline
     }
+    #role-img{
+        width: 100%;
+        height: 100%;
+        margin-top: 10%;
+        border-radius: 20px;
+    }
 
 
 .news{
